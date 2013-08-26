@@ -120,3 +120,4 @@
               (align-regexp start end (concat "\\(\\s-*\\)" comment-start "+") 1 1 t))))))))
 
 (provide 'smart-whitespace-comment-fixup)
+;;; smart-whitespace-comment-fixup.el ends here
